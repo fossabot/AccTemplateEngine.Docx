@@ -29,6 +29,7 @@ You can get it with [NuGet package](https://nuget.org/packages/TemplateEngine.Do
 ### Filling fields
 
 ![docx template](http://unit6.ru/img/template-engine/Fill-Field.PNG)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSageFR%2FAccTemplateEngine.Docx.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSageFR%2FAccTemplateEngine.Docx?ref=badge_shield)
 
 ```cs
 using System;
@@ -537,3 +538,7 @@ namespace TemplateEngine.Docx.Example
 Have fun!
 
 ![yandex counter](https://mc.yandex.ru/watch/9260296)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSageFR%2FAccTemplateEngine.Docx.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSageFR%2FAccTemplateEngine.Docx?ref=badge_large)
